@@ -1,0 +1,4 @@
+<view class='container'>
+<button bindtap='openLocation'>查看</button>
+<button bindtap='chooseLocation'>选择</button>
+</view>

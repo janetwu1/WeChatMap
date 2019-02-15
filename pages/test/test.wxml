@@ -1,0 +1,6 @@
+<view longitude='{{longitudes}}' 
+     latitude='{{latitudes}}' 
+     scale='14'  
+     show-location style="width: 100%; height: 400px;"
+>
+</view>
